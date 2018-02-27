@@ -32,7 +32,7 @@
     "bcoin": "bitpay/bcoin#v1.0.0-beta.14+cash",
     "bitcoind-rpc": "^0.6.0",
     "bitcore-lib": "5.0.0-beta.1",
-    "bitcore-lib-cash": "github:bitpay/bitcore-lib#cash",
+    "bitcore-lib-cash": "^0.16.3",
     "bitcore-p2p": "5.0.0-beta.1",
     "bitcore-p2p-cash": "github:usatie/bitcore-p2p#cash",
     "bn.js": "^4.11.8",
